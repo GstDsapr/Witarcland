@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	text: [
+		"{wtl.quests.chapter4.dilithium.desc1}"
+	],
+	dependencies: [
+		"a75139da"
+	],
+	tasks: [{
+		uid: "5453448c",
+		type: "item",
+		items: [{
+			item: "libvulpes:productgem"
+		}]
+	}]
+}

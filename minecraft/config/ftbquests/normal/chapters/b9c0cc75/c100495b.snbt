@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"2604e749"
+	],
+	tasks: [{
+		uid: "99bdc236",
+		type: "item",
+		items: [{
+			item: "calculator:coaldust"
+		}]
+	}]
+}

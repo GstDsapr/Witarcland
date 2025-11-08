@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 6.0d,
+	dependencies: [
+		"ee208a4f"
+	],
+	tasks: [{
+		uid: "51a4e32b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard 1 1"
+		}]
+	}]
+}

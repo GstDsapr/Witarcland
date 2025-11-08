@@ -1,0 +1,77 @@
+{
+	"name": "advancedrocketry:satellite_bay",
+	"target-block": "advancedrocketry:loader",
+	"target-count": 1,
+	"target-meta": 1,
+	"duration": 200,
+	"symmetrical": true,
+	"catalyst": "libvulpes:structuremachine",
+	"catalyst-meta": 0,
+	"input-types": {
+		"a": {
+			"id": "mekanism:plasticblock",
+			"meta": 15
+		},
+		"b": {
+			"id": "libvulpes:metal0",
+			"meta": 7
+		},
+		"c": {
+			"id": "advancedrocketry:metal0",
+			"meta": 1
+		}
+	},
+	"shape": [
+		[
+			[
+				"a",
+				"a",
+				"a"
+			],
+			[
+				"a",
+				"c",
+				"a"
+			],
+			[
+				"a",
+				"a",
+				"a"
+			]
+		],
+		[
+			[
+				"a",
+				"b",
+				"a"
+			],
+			[
+				"b",
+				"_",
+				"b"
+			],
+			[
+				"a",
+				"b",
+				"a"
+			]
+		],
+		[
+			[
+				"a",
+				"a",
+				"a"
+			],
+			[
+				"a",
+				"c",
+				"a"
+			],
+			[
+				"a",
+				"a",
+				"a"
+			]
+		]
+	]
+}

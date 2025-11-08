@@ -1,0 +1,280 @@
+[
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:wyvern_core",
+		"catalyst": "minecraft:nether_star",
+		"energy": 500000,
+		"tier": 0,
+		"ingredients": [
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:crafting_injector,1,1",
+		"catalyst": "draconicevolution:crafting_injector,1,0"
+	},
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:crafting_injector,1,1",
+		"catalyst": "draconicevolution:crafting_injector,1,0",
+		"energy": 800000,
+		"tier": 0,
+		"ingredients": [
+			"draconicevolution:wyvern_core",
+			"mekanism:atomicalloy",
+			"draconicevolution:draconic_core",
+			"mekanism:atomicalloy",
+			"draconicevolution:draconic_core",
+			"mekanism:atomicalloy",
+			"contenttweaker:nuclearinfused_ingot",
+			"mekanism:atomicalloy"
+		]
+	},
+	{
+		"mode": "ADD",
+		"result": "extendedcrafting:ender_crafter",
+		"catalyst": "enderio:item_material,1,66",
+		"energy": 1000000,
+		"tier": 1,
+		"ingredients": [
+			"extendedcrafting:storage,1,5",
+			"extendedcrafting:storage,1,5",
+			"extendedcrafting:material,1,12",
+			"extendedcrafting:material,1,12",
+			"appliedenergistics2:molecular_assembler",
+			"appliedenergistics2:molecular_assembler"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:draconic_block,4,0",
+		"catalyst": "draconicevolution:draconium_block,4,0"
+	},
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:draconic_block,4,0",
+		"catalyst": "draconicevolution:draconium_block,4,0",
+		"energy": 10000000,
+		"tier": 1,
+		"ingredients": [
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconic_core",
+			"draconicevolution:dragon_heart",
+			"actuallyadditions:block_crystal_empowered,1,0",
+			"actuallyadditions:block_crystal_empowered,1,1",
+			"actuallyadditions:block_crystal_empowered,1,2",
+			"actuallyadditions:block_crystal_empowered,1,3",
+			"actuallyadditions:block_crystal_empowered,1,4",
+			"actuallyadditions:block_crystal_empowered,1,5"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:crafting_injector,1,2",
+		"catalyst": "draconicevolution:crafting_injector,1,1"
+	},
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:crafting_injector,1,2",
+		"catalyst": "draconicevolution:crafting_injector,1,1",
+		"energy": 1600000,
+		"tier": 1,
+		"ingredients": [
+			"draconicevolution:awakened_core",
+			"nuclearcraft:part,1,2",
+			"draconicevolution:wyvern_core",
+			"nuclearcraft:part,1,2",
+			"draconicevolution:wyvern_core",
+			"nuclearcraft:part,1,2",
+			"contenttweaker:nuclearinfused_ingot",
+			"nuclearcraft:part,1,2"
+		]
+	},
+	{
+		"mode": "ADD",
+		"result": "nuclearcraft:compound,2,1",
+		"catalyst": "calculator:atomicbinder",
+		"energy": 256000,
+		"tier": 1,
+		"ingredients": [
+			"nuclearcraft:compound",
+			"nuclearcraft:compound,1,2",
+			"nuclearcraft:compound,1,8",
+			"nuclearcraft:dust,1,7",
+			"nuclearcraft:gem_dust,1,1",
+			"nuclearcraft:gem_dust,1,10",
+			"thermalfoundation:material,1,770",
+			"thermalfoundation:material,1,1028"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:draconium_chest",
+		"catalyst": "minecraft:chest"
+	},
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:draconium_chest",
+		"catalyst": "ironchest:iron_chest,1,6",
+		"energy": 2800000,
+		"tier": 2,
+		"ingredients": [
+			"enderio:item_material,1,48",
+			"enderio:item_material,1,49",
+			"enderio:item_material,1,50",
+			"draconicevolution:draconic_core",
+			"draconicevolution:draconic_core",
+			"extendedcrafting:table_basic",
+			"mekanism:machineblock,1,7,{\"recipeType\":\"0\"}"
+		]
+	},
+	{
+		"mode": "ADD",
+		"result": "advancedrocketry:drill",
+		"catalyst": "libvulpes:structuremachine",
+		"energy": 6000000,
+		"tier": 2,
+		"ingredients": [
+			"pneumaticcraft:assembly_program",
+			"extendedcrafting:material,1,40",
+			"embers:wildfire_core",
+			"embers:wildfire_core",
+			"enderio:item_material,1,73",
+			"enderio:item_material,1,73",
+			"contenttweaker:world_crystal",
+			"contenttweaker:world_crystal"
+		]
+	},
+	{
+		"mode": "ADD",
+		"result": "extendedcrafting:material,1,11",
+		"catalyst": "contenttweaker:world_crystal",
+		"energy": 8000000,
+		"tier": 2,
+		"ingredients": [
+			"extendedcrafting:material,1,17",
+			"extendedcrafting:material,1,17",
+			"extendedcrafting:material,1,17",
+			"extendedcrafting:material,1,17"
+		]
+	},
+	{
+		"mode": "ADD",
+		"result": "advancedrocketry:intake",
+		"catalyst": "libvulpes:advstructuremachine",
+		"energy": 10000000,
+		"tier": 2,
+		"ingredients": [
+			"nuclearcraft:helium_collector_dense",
+			"environmentaltech:structure_frame_5",
+			"nuclearcraft:part,1,5",
+			"nuclearcraft:part,1,5",
+			"contenttweaker:bismuth_gear",
+			"contenttweaker:bismuth_gear",
+			"nuclearcraft:californium,1,12",
+			"nuclearcraft:californium,1,12"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:crafting_injector,1,3",
+		"catalyst": "draconicevolution:crafting_injector,1,2"
+	},
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:crafting_injector,1,3",
+		"catalyst": "draconicevolution:crafting_injector,1,2",
+		"energy": 100000000,
+		"tier": 2,
+		"ingredients": [
+			"draconicevolution:chaotic_core",
+			"contenttweaker:sextuple_void_ingot",
+			"draconicevolution:awakened_core",
+			"contenttweaker:sextuple_void_ingot",
+			"draconicevolution:awakened_core",
+			"contenttweaker:sextuple_void_ingot",
+			"contenttweaker:nuclearinfused_ingot",
+			"contenttweaker:sextuple_void_ingot"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:reactor_core",
+		"catalyst": "draconicevolution:chaos_shard"
+	},
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:reactor_core",
+		"catalyst": "draconicevolution:chaotic_core",
+		"energy": 100000000,
+		"tier": 3,
+		"ingredients": [
+			"draconicevolution:draconium_block,1,1",
+			"contenttweaker:sextuple_void_ingot",
+			"draconicevolution:draconium_block,1,1",
+			"contenttweaker:sextuple_void_ingot",
+			"draconicevolution:draconium_block,1,1",
+			"contenttweaker:sextuple_void_ingot",
+			"draconicevolution:draconium_block,1,1",
+			"contenttweaker:sextuple_void_ingot"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:reactor_component,1,1",
+		"catalyst": "draconicevolution:wyvern_core"
+	},
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:reactor_component,1,1",
+		"catalyst": "draconicevolution:chaotic_core",
+		"energy": 123456789,
+		"tier": 3,
+		"ingredients": [
+			"draconicevolution:reactor_part,1,1",
+			"draconicevolution:reactor_part,1,1",
+			"draconicevolution:reactor_part,1,1",
+			"draconicevolution:reactor_part,1,1",
+			"enderio:item_material,1,68",
+			"enderio:item_material,1,68",
+			"enderio:item_material,1,68",
+			"enderio:item_material,1,68"
+		]
+	},
+	{
+		"mode": "ADD",
+		"result": "extrautils2:rainbowgenerator",
+		"catalyst": "contenttweaker:sub_block_holder_3",
+		"energy": 999999999,
+		"tier": 3,
+		"ingredients": [
+			"extrautils2:rainbowgenerator,1,2",
+			"extrautils2:rainbowgenerator,1,1",
+			"extendedcrafting:material,1,11",
+			"extendedcrafting:material,1,11"
+		]
+	},
+	{
+		"mode": "ADD",
+		"result": "modularmachinery:blockparallelcontroller,1,4",
+		"catalyst": "extendedcrafting:material,1,32",
+		"energy": 2147483647,
+		"tier": 3,
+		"ingredients": [
+			"modularmachinery:blockparallelcontroller,1,3",
+			"modularmachinery:blockparallelcontroller,1,3",
+			"modularmachinery:blockparallelcontroller,1,3",
+			"modularmachinery:blockparallelcontroller,1,3"
+		]
+	}
+]

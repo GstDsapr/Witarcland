@@ -1,0 +1,8119 @@
+{
+	"registryname":"eight_glass_reactor",
+	"localizedname":"八璃反应堆",
+	"requires-blueprint":true,
+	"color":"BEDAEE",
+    "parts": [
+        {
+            "x": -2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -4,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -4,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -5,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 26,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -5,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -4,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -4,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 24,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 26,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -4,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -5,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -4,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "draconicevolution:reactor_core@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -5,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -4,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -5,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -4,
+            "z": 21,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 24,
+            "elements": [
+                "modularmachinery:blockoutputbus@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 26,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -5,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 26,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 21,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -4,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -5,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -5,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -4,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage_alloy@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 26,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -5,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 26,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -5,
+            "z": 20,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -5,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@2"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 24,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:storage_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -4,
+            "z": 21,
+            "elements": [
+                "extendedcrafting:storage@4"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "thermalfoundation:storage@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 21,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 19,
+            "elements": [
+                "thermalfoundation:glass_alloy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -5,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:unstable_gas@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 23,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:storage_alloy@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "extrautils2:decorativesolid@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:storage_alloy@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 25,
+            "elements": [
+                "thermalfoundation:glass_alloy@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "thermalfoundation:glass_alloy@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -4,
+            "z": 22,
+            "elements": [
+                "thermalfoundation:glass_alloy@3"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:glass@1"
+            ]
+        }
+    ]}

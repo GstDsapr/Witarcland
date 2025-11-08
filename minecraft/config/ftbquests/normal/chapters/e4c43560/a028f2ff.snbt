@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 4.0d,
+	text: [
+		"{wtl.quests.chapter2.imperfect_ritual_stone.desc1}"
+	],
+	dependencies: [
+		"c5aecd65"
+	],
+	tasks: [{
+		uid: "ce393bbc",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller 1 1"
+		}]
+	}]
+}

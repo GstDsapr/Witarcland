@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+
+	<recipe name="Alloy: Construction Alloy" disabled="true" />
+	<recipe name="Alloy: Signalum (Thermal Expansion)" disabled="true" />
+	<recipe name="Sagmill: Iridium Ore" disabled="true" />
+	<recipe name="Sagmill: orePlatinum Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="orePlatinum" />
+			<output name="dustPlatinum" amount="2" />
+			<output name="oredict:cobblestone" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: oreNickel Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreNickel" />
+			<output name="dustNickel" amount="2" />
+			<output name="oredict:cobblestone" chance="0.15" />
+		</sagmilling>
+	</recipe> 
+	<recipe name="Alloy: Enderium (Thermal Expansion)" disabled="true" />
+	<recipe name="Alloy: Enderium Base (Thermal Expansion)" disabled="true" />
+	<recipe name="Alloy: Lumium from dust (Thermal Expansion)" disabled="true" />
+	<recipe name="Alloy: Lumium (Thermal Expansion)" disabled="true" />
+	<recipe name="Chassis" disabled="true" />
+	<recipe name="Enhanced Chassis" disabled="true" />
+	<recipe name="Soul Chassis" disabled="true" />
+	<recipe name="Sagmill: Boron Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreBoron" />
+			<output name="dustBoron" amount="2" />
+			<output name="minecraft:cobblestone" chance="0.15" />
+		</sagmilling>
+	</recipe>
+ </enderio:recipes>

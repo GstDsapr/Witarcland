@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	text: [
+		"{wtl.quests.chapter1.arcane_workbench.desc1}"
+	],
+	dependencies: [
+		"1eccd631"
+	],
+	tasks: [{
+		uid: "dc3eca97",
+		type: "item",
+		items: [{
+			item: "thaumcraft:arcane_workbench"
+		}]
+	}]
+}

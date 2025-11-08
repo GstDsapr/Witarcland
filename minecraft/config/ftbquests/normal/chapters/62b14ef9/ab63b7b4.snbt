@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	text: [
+		"{wtl.quests.chapter4.solar_array_tier5.desc1}"
+	],
+	dependencies: [
+		"8aab875c"
+	],
+	tasks: [{
+		uid: "52cbc27d",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_5"
+		}]
+	}]
+}

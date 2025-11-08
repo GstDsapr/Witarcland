@@ -1,0 +1,27 @@
+{
+	title: "{wtl.quests.chapterE.rod_of_the_skies.title}",
+	x: -4.0d,
+	y: 0.0d,
+	description: "{wtl.quests.chapterE.rod_of_the_skies.subtitle}",
+	dependencies: [
+		"26c0af41"
+	],
+	tasks: [{
+		uid: "fff07216",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:tornadorod",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d8e78cd7",
+		type: "item",
+		item: "botania:blacklotus 1 1"
+	}]
+}

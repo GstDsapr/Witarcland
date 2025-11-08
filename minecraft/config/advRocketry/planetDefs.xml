@@ -1,0 +1,82 @@
+<galaxy>
+    <star name="Sol" temp="100" x="0" y="0" numPlanets="2">
+        <planet DIMID="0" name="Earth" dimMapping="">
+            <isKnown>true</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>287</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="3" name="Luna">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>16</gravitationalMultiplier>
+                <orbitalDistance>150</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>255</avgTemperature>
+                <rotationalPeriod>128000</rotationalPeriod>
+                <atmosphereDensity>0</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+        </planet>
+		<planet DIMID="121" name="Psogereer" customIcon="marslike">
+			<isKnown>false</isKnown>
+			<fogColor>0.5,0,0</fogColor>
+			<skyColor>0.73,0.56,0.56</skyColor>
+			<atmosphereDensity>300</atmosphereDensity>
+			<hasOxygen>false</hasOxygen>
+			<gravitationalMultiplier>200</gravitationalMultiplier>
+			<orbitalDistance>20</orbitalDistance>
+			<avgTemperature>500</avgTemperature>
+			<orbitalTheta>233</orbitalTheta>
+			<orbitalPhi>45</orbitalPhi>
+			<rotationalPeriod>1200</rotationalPeriod>
+			<fillerBlock>contenttweaker:psogereer_rock</fillerBlock>
+			<oceanBlock>thaumcraft:liquid_death</oceanBlock>
+			<biomeIds>advancedrocketry:volcanic;30,advancedrocketry:volcanicbarren;30,minecraft:mesa;30,minecraft:mesa_rock;30,minecraft:mesa_clear_rock;30</biomeIds>
+			<planet DIMID="122" name="AshFilled" customIcon="moon">
+				<isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+				<atmosphereDensity>8</atmosphereDensity>
+				<hasOxygen>false</hasOxygen>
+				<gravitationalMultiplier>10</gravitationalMultiplier>
+				<orbitalDistance>200</orbitalDistance>
+				<avgTemperature>300</avgTemperature>
+				<orbitalTheta>0</orbitalTheta>
+				<orbitalPhi>90</orbitalPhi>
+				<rotationalPeriod>54000</rotationalPeriod>
+				<fillerBlock>contenttweaker:block_ash</fillerBlock>
+				<artifact>nuclearcraft:californium 12</artifact>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+			</planet>
+			<planet DIMID="123" name="UnstableSphere" customIcon="IceWorld">
+				<isKnown>false</isKnown>
+				<GasGiant>true</GasGiant>
+				<gas>unstable_gas</gas>
+				<orbitalDistance>10</orbitalDistance>
+				<orbitalTheta>0</orbitalTheta>
+				<rotationalPeriod>20</rotationalPeriod>
+			</planet>
+		</planet>
+    </star>
+    <star name="X-STAR" temp="200" x="35" y="45" numPlanets="4"></star>
+</galaxy>

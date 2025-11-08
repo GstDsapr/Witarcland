@@ -1,0 +1,15 @@
+{
+	title: "{wtl.quests.chapterE.silverfish.title}",
+	x: 2.0d,
+	y: 0.0d,
+	description: "{wtl.quests.chapterE.silverfish.subtitle}",
+	dependencies: [
+		"d4438193"
+	],
+	tasks: [{
+		uid: "bbd02d30",
+		type: "kill",
+		entity: "minecraft:silverfish",
+		value: 1L
+	}]
+}

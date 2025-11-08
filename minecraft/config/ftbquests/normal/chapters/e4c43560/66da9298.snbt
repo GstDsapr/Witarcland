@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	shape: "octagon",
+	dependencies: [
+		"36110631"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "715baed8",
+		type: "item",
+		items: [{
+			item: "naturesaura:nature_altar"
+		}]
+	}]
+}

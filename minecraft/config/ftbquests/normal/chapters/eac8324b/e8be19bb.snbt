@@ -1,0 +1,19 @@
+{
+	title: "{wtl.quests.chapter1.smart_output.title}",
+	x: 10.0d,
+	y: -8.0d,
+	text: [
+		"{wtl.quests.chapter1.smart_output.desc1}",
+		"{wtl.quests.chapter1.smart_output.desc2}"
+	],
+	dependencies: [
+		"2b36f7b7"
+	],
+	tasks: [{
+		uid: "b1fd45bb",
+		type: "item",
+		items: [{
+			item: "tinker_io:smart_output"
+		}]
+	}]
+}

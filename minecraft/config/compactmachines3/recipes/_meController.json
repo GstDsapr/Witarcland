@@ -1,0 +1,80 @@
+{
+	"name": "appliedenergistics2:controller",
+	"target-item": "appliedenergistics2:controller",
+	"target-count": 1,
+	"target-meta": 0,
+	"duration": 600,
+	"symmetrical": true,
+	"catalyst": "contenttweaker:appliedenergistics_core",
+	"input-types": {
+		"a": {
+			"id": "appliedenergistics2:smooth_sky_stone_block",
+			"meta": 0
+		},
+		"b": {
+			"id": "immersiveengineering:metal_decoration0",
+			"meta": 4
+		},
+		"c": {
+			"id": "appliedenergistics2:fluix_block",
+			"meta": 0
+		},
+		"d": {
+			"id": "appliedenergistics2:energy_acceptor",
+			"meta": 0
+		}
+	},
+	"shape": [
+		[
+			[
+				"a",
+				"b",
+				"a"
+			],
+			[
+				"b",
+				"c",
+				"b"
+			],
+			[
+				"a",
+				"b",
+				"a"
+			]
+		],
+		[
+			[
+				"b",
+				"c",
+				"b"
+			],
+			[
+				"c",
+				"d:A",
+				"c"
+			],
+			[
+				"b",
+				"c",
+				"b"
+			]
+		],
+		[
+			[
+				"a",
+				"b",
+				"a"
+			],
+			[
+				"b",
+				"c",
+				"b"
+			],
+			[
+				"a",
+				"b",
+				"a"
+			]
+		]
+	]
+}

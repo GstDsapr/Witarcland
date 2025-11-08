@@ -1,0 +1,3103 @@
+{
+	"registryname":"world_altar",
+	"localizedname":"世界祭坛",
+	"requires-blueprint":true,
+	"color":"b1f2f5",
+    "parts": [
+        {
+            "x": -6,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "bloodmagic:demon_extras@11"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "environmentaltech:mica@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "environmentaltech:mica@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "bloodmagic:demon_extras@11"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "compactmachines3:fieldprojector@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "botania:pylon@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "item_input"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": -5,
+            "elements": [
+                "botania:pylon@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "fluid_input"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@14"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "environmentaltech:erodium@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "bloodmagic:demon_extras@13"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "compactmachines3:fieldprojector@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@12"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "botania:pylon@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "environmentaltech:erodium@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": -9,
+            "elements": [
+                "minecraft:dragon_egg@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": -5,
+            "elements": [
+                "botania:pylon@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "bloodmagic:demon_extras@13"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@12"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -4,
+            "elements": [
+                "compactmachines3:fieldprojector@3"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "bloodmagic:demon_extras@11"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@12"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "compactmachines3:fieldprojector@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extrautils2:simpledecorative@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@14"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -4,
+            "elements": [
+                "appliedenergistics2:controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "environmentaltech:erodium@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extrautils2:simpledecorative@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "item_output"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "bloodmagic:demon_extras@13"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "extrautils2:simpledecorative@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "extrautils2:simpledecorative@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "bloodmagic:demon_extras@11"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "thaumcraft:infusion_matrix@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "bloodmagic:demon_extras@13"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "bloodmagic:demon_extras@13"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 9,
+            "elements": [
+                "minecraft:dragon_egg@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": -9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -9,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": -9,
+            "elements": [
+                "thaumcraft:infusion_matrix@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@14"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thaumcraft:infusion_matrix@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@12"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "minecraft:dragon_egg@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "environmentaltech:mica@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "astralsorcery:fluidblockliquidstarlight@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "thermalfoundation:glass_alloy@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "thaumcraft:infusion_matrix@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "environmentaltech:mica@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "botania:storage@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "minecraft:dragon_egg@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@14"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockstarlightproviderinput@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@12"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "botania:petalblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "bloodmagic:demon_extras@11"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:storage@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "environmentaltech:mica@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:sub_block_holder_1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -5,
+            "elements": [
+                "environmentaltech:erodium@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -5,
+            "elements": [
+                "thermalfoundation:storage_alloy@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -6,
+            "elements": [
+                "redstonearsenal:storage@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -5,
+            "elements": [
+                "actuallyadditions:block_crystal_empowered@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "mekanism:basicblock@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "bloodmagic:demon_extras@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockinfusedwood@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -7,
+            "elements": [
+                "enderio:block_alloy_endergy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -6,
+            "elements": [
+                "tinker_io:what_a_beautiful_block@0"
+            ]
+        }
+    ]}

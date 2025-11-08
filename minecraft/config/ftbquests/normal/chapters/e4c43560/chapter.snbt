@@ -1,0 +1,7 @@
+{
+	title: "{wtl.quests.chapter2.title}",
+	icon: "contenttweaker:sacred_symbol",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "circle"
+}

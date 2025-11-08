@@ -1,0 +1,12 @@
+{
+	title: "精灵门",
+	loot_size: 1,
+	rewards: [{
+		title: "{wtl.quests.table.alfheim_portal.item1}",
+		item: "botania:sparkupgrade 1 1",
+		count: 2
+	},
+	{
+		item: "botania:sparkupgrade 1 2"
+	}]
+}

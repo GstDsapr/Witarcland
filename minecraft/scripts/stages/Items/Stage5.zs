@@ -1,0 +1,147 @@
+#priority 750
+
+//导入
+import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDictEntry;
+
+//内容
+
+var Items as IItemStack[] = [
+	//A
+		//an
+			/*暗物质台座*/<projecte:dm_pedestal>,
+	//B
+		//biao
+			/*标记混沌聚合注入器*/<packageddraconic:marked_chaotic_injector>,
+		//bu
+			/*钚RTG*/<nuclearcraft:rtg_plutonium>,/*不稳定之魂*/<contenttweaker:unstable_spirit>,
+	//C
+		//cai
+			/*彩虹发电机*/<extrautils2:rainbowgenerator>,/*彩虹发电机（上半部分）*/<extrautils2:rainbowgenerator:2>,/*彩虹发电机（下半部分）*/<extrautils2:rainbowgenerator:1>,/*彩虹石*/<extrautils2:decorativesolid:8>,
+		//chao
+			/*超级并行控制器*/<modularmachinery:blockparallelcontroller:3>,/*超级流体输出仓*/<modularmachinery:blockfluidoutputhatch:6>,/*超级流体输入仓*/<modularmachinery:blockfluidinputhatch:6>,/*超级能源输出仓*/<modularmachinery:blockenergyoutputhatch:6>,/*超级能源输入仓*/<modularmachinery:blockenergyinputhatch:6>,/*超级物品输出仓*/<modularmachinery:blockoutputbus:6>,/*超级物品输入仓*/<modularmachinery:blockinputbus:6>,
+		//chong
+			/*充能龙块*/<draconicevolution:draconium_block:1>,/*充能台奇点*/<extendedcrafting:singularity_custom:6>,
+		//chuang
+			/*创造模式发电机*/<extrautils2:passivegenerator:6>,/*创造RF能源*/<draconicevolution:creative_rf_source>,
+	//D
+		//dian
+			/*电磁体*/<nuclearcraft:fusion_electromagnet_idle>,
+	//E
+		//er
+			/*二硼化镁合金*/<nuclearcraft:alloy:3>,/*二硼化镁螺线圈*/<nuclearcraft:part:5>,
+	//F
+		//fan
+			/*反应堆单元*/<nuclearcraft:cell_block>,/*反应堆核心*/<draconicevolution:reactor_core>,/*反应堆能量注入器*/<draconicevolution:reactor_component:1>,/*反应堆稳定器*/<draconicevolution:reactor_component>,/*反应堆稳定器聚焦环*/<draconicevolution:reactor_part:4>,/*反应堆稳定器框架*/<draconicevolution:reactor_part>,/*反应堆稳定器内转子*/<draconicevolution:reactor_part:1>,/*反应堆稳定器外转子*/<draconicevolution:reactor_part:2>,/*反应堆稳定器转子总成*/<draconicevolution:reactor_part:3>,
+	//G
+		//gao
+			/*高级机器结构方块*/<libvulpes:advstructuremachine>,
+	//H
+		//he
+			/*核熔炉*/<nuclearcraft:nuclear_furnace_idle>,
+		//hei
+			/*黑铁块（终极粒）*/<extendedcrafting:trimmed:5>,
+		//huan
+			/*缓存器*/<nuclearcraft:buffer>,
+		//hun
+			/*混沌注入合成装置*/<draconicevolution:crafting_injector:3>,
+	//J
+		//jin
+			/*金叶奇点*/<extendedcrafting:singularity_custom:2>,
+		//jing
+			/*精华板奇点*/<extendedcrafting:singularity_custom:12>,
+		//ju
+			/*聚变堆核心*/<nuclearcraft:fusion_core>,/*聚变连接器*/<nuclearcraft:fusion_connector>,
+	//K
+		//kai
+			/*锎RTG*/<nuclearcraft:rtg_californium>,
+		//kong
+			/*空白样板奇点*/<extendedcrafting:singularity_custom:7>,
+	//L
+		//lan
+			/*蓝丝黛尔水晶奇点*/<extendedcrafting:singularity_custom:11>,
+		//li
+			/*离魂机器框架*/<enderio:item_material:55>,
+		//liang
+			/*量子压缩机*/<extendedcrafting:compressor>,
+		//lie
+			/*裂变堆端口*/<nuclearcraft:fission_port>,/*裂变反应堆外壳*/<nuclearcraft:fission_block>,/*裂变控制器*/<nuclearcraft:fission_controller_new_fixed>,
+		//liu
+			/*六重虚空尘*/<contenttweaker:sextuple_void_dust>,/*六重虚空锭*/<contenttweaker:sextuple_void_ingot>,/*六重虚空矿石*/<contenttweaker:sextuple_void_ore>,/*六级结构方块*/<environmentaltech:structure_frame_6>,/*六级太阳能发电机控制器*/<environmentaltech:solar_cont_6>,/*六级虚空矿物采掘机控制器*/<environmentaltech:void_ore_miner_cont_6>,/*六级虚空植物采掘机控制器*/<environmentaltech:void_botanic_miner_cont_6>,/*六级虚空资源采掘机控制器*/<environmentaltech:void_res_miner_cont_6>,
+		//long
+			/*龙芯奇点*/<extendedcrafting:singularity_custom:10>,
+	//M
+		//mei
+			/*镅RTG*/<nuclearcraft:rtg_americium>,
+		//mo
+			/*模块化电路板*/<contenttweaker:modular_circuit_plate>,/*模块化芯片*/<contenttweaker:modular_circuit>,/*魔力符文奇点*/<extendedcrafting:singularity_custom:3>,/*魔力龙块*/<contenttweaker:mana_draconium_block>,
+	//N
+		//neng
+			/*能量阀门*/<draconicevolution:flow_gate>,
+		//ning
+			/*凝聚不稳定*/<contenttweaker:condensed_unstable>,/*凝聚不稳定奇点*/<extendedcrafting:singularity_custom:14>,
+	//Q
+		//qi
+			/*气体收集器*/<advancedrocketry:intake>,
+		//qian
+			/*前八十一元素*/<contenttweaker:elements_a>,
+		//qiang
+			/*强化机器零件*/<enderio:item_material:68>,/*强化泰拉钢锭奇点*/<extendedcrafting:singularity_custom:8>,
+	//S
+		//shen
+			/*神圣象征奇点*/<extendedcrafting:singularity_custom:5>,
+		//shi
+			/*时间洪流怀表*/<projecte:item.pe_time_watch>,/*世界水晶奇点*/<extendedcrafting:singularity_custom:13>,/*世界盐奇点*/<extendedcrafting:singularity_custom:1>,
+		//suo
+			/*所有元素*/<contenttweaker:elements_b>,/*所辙壹尔岩*/<contenttweaker:psogereer_rock>,
+	//T
+		//tan
+			/*碳化硅CMC材料*/<nuclearcraft:alloy:14>,/*碳化硅锭*/<nuclearcraft:alloy:13>,/*碳化硅纤维*/<nuclearcraft:part:13>,/*碳化树*/<advancedrocketry:charcoallog>,
+		//tie
+			/*铁奇点*/<extendedcrafting:singularity:1>,
+		//tou
+			/*透明聚变电磁体*/<nuclearcraft:fusion_electromagnet_transparent_idle>,/*透明裂变反应堆外壳*/<nuclearcraft:reactor_casing_transparent>,
+	//W
+		//wei
+			/*维塔克兰之心*/<contenttweaker:witarcland_heart>,
+		//wu
+			/*无人飞船组装器*/<advancedrocketry:deployablerocketbuilder>,
+	//X
+		//xian
+			/*仙域水晶奇点*/<extendedcrafting:singularity_custom:4>,
+	//Y
+		//ye
+			/*液冷器*/<nuclearcraft:active_cooler>,
+		//yi
+			/*铱奇点*/<extendedcrafting:singularity:35>,/*以太水晶*/<environmentaltech:aethium_crystal>,/*以太太阳能板*/<environmentaltech:solar_cell_aethium>,/*意志处理器奇点*/<extendedcrafting:singularity_custom:9>,
+		//yong
+			/*永恒魔力池*/<botania:pool:1>,
+		//you
+			/*铀RTG*/<nuclearcraft:rtg_uranium>,
+	//Z
+		//zhong
+			/*终极并行控制器*/<modularmachinery:blockparallelcontroller:4>,/*终极催化剂*/<extendedcrafting:material:13>,/*终极封包合成器*/<packagedexcrafting:ultimate_crafter>,/*终极工作台*/<extendedcrafting:table_ultimate>,/*终极合成催化剂*/<extendedcrafting:material:11>,/*终极合成组件*/<extendedcrafting:material:17>,/*终极能源输入仓*/<modularmachinery:blockenergyinputhatch:7>,/*终极奇点*/<extendedcrafting:singularity_ultimate>,/*终极组件*/<extendedcrafting:material:19>,
+		//zui
+			/*罪银*/<contenttweaker:guilty_silver>,
+	//燃料
+		<nuclearcraft:fuel_thorium:*>,<nuclearcraft:fuel_uranium:*>,<nuclearcraft:fuel_neptunium:*>,<nuclearcraft:fuel_plutonium:*>,<nuclearcraft:fuel_mixed_oxide:*>,<nuclearcraft:fuel_americium:*>,<nuclearcraft:fuel_curium:*>,<nuclearcraft:fuel_berkelium:*>,<nuclearcraft:fuel_californium:*>,<nuclearcraft:depleted_fuel_thorium:*>,<nuclearcraft:depleted_fuel_uranium:*>,<nuclearcraft:depleted_fuel_neptunium:*>,<nuclearcraft:depleted_fuel_plutonium:*>,<nuclearcraft:depleted_fuel_mixed_oxide:*>,<nuclearcraft:depleted_fuel_americium:*>,<nuclearcraft:depleted_fuel_curium:*>,<nuclearcraft:depleted_fuel_berkelium:*>,<nuclearcraft:depleted_fuel_californium:*>,
+	//同位素
+		<nuclearcraft:thorium:*>,<nuclearcraft:uranium:*>,<nuclearcraft:neptunium:*>,<nuclearcraft:plutonium:*>,<nuclearcraft:americium:*>,<nuclearcraft:curium:*>,<nuclearcraft:berkelium:*>,<nuclearcraft:californium:*>,<nuclearcraft:boron>,<nuclearcraft:lithium>,
+	//同位素块
+		<nuclearcraft:block_depleted_thorium>,<nuclearcraft:block_depleted_uranium>,<nuclearcraft:block_depleted_neptunium>,<nuclearcraft:block_depleted_plutonium>,<nuclearcraft:block_depleted_americium>,<nuclearcraft:block_depleted_curium>,<nuclearcraft:block_depleted_berkelium>,<nuclearcraft:block_depleted_californium>
+];
+for array in Items {
+	mods.ItemStages.removeItemStage(array);
+	mods.ItemStages.addItemStage("five",array);
+}
+
+var ODs as IOreDictEntry[] = [
+	<ore:nuggetBismuth>,<ore:ingotBismuth>,<ore:blockBismuth>,<ore:oreBismuth>,<ore:dustBismuth>,<ore:gearBismuth>,<ore:plateBismuth>,
+	<ore:nuggetEnergeticSilver>,<ore:ingotEnergeticSilver>,<ore:blockEnergeticSilver>,<ore:gearEnergeticSilver>,<ore:plateEnergeticSilver>,
+	<ore:nuggetUltimate>,<ore:ingotUltimate>,<ore:blockUltimate>,
+	<ore:ingotWow>,<ore:blockWow>
+];
+for array in ODs {
+	mods.ItemStages.removeItemStage(array);
+	mods.ItemStages.addItemStage("five",array);
+}

@@ -1,0 +1,1968 @@
+{
+	"registryname":"dandelifeon",
+	"localizedname":"§d§l生命游戏",
+	"requires-blueprint":true,
+	"color":"B3728C",
+    "parts": [
+        {
+            "x": -2,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockmanaprovideroutput@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairself@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairself@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartztypeelf@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairself@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartzstairself@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairself@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartztypeelf@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartzstairself@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairself@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairself@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:alfheimportal@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:alfheimportal@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartztypeelf@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartztypeelf@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartztypeelf@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartztypeelf@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 0,
+            "nbt": {"subTileName":"dandelifeon"},
+            "elements": [
+                "botania:specialflower@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartztypeelf@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairself@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartztypeelf@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairself@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "botania:quartztypeelf@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairself@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairself@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "botania:quartzstairself@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:quartztypeelf@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairself@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "botania:quartztypeelf@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairself@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairself@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:livingrock1stairs@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairself@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:alfheimportal@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairself@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairself@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:alfheimportal@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:quartzstairself@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairself@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "botania:quartzstairself@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "botania:altgrass@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -4,
+            "elements": [
+                "botania:quartztypeelf@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "botania:livingrock1stairs@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "botania:livingrock1stairs@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -5,
+            "elements": [
+                "botania:livingrock1stairs@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "botania:quartzstairself@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "botania:platform@1","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "botania:shimmerrock@0","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "botania:quartztypeelf@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "botania:livingrock@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "embers:crystal_cell@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "botania:livingrock@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "botania:quartzstairself@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "botania:bifrostperm@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "bloodmagic:blood_rune@3","contenttweaker:dandelifeon_mark","contenttweaker:dandelifeon_mark_actived"
+            ]
+        }
+    ]}

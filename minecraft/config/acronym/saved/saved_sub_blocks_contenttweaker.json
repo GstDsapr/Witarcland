@@ -1,0 +1,26 @@
+{
+  "savedSubBlockNames": {
+    "0": {
+      "0": "chrome_block",
+      "1": "chrome_ore"
+    },
+    "1": {
+      "0": "bloodstarchrome_block"
+    },
+    "2": {
+      "0": "tungsten_block",
+      "1": "tungsten_ore"
+    },
+    "3": {
+      "0": "wow_block"
+    },
+    "4": {
+      "0": "holmium_block",
+      "1": "holmium_ore"
+    },
+    "5": {
+      "0": "bismuth_block",
+      "1": "bismuth_ore"
+    }
+  }
+}

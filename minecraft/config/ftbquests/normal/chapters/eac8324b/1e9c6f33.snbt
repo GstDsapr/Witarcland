@@ -1,0 +1,23 @@
+{
+	x: 12.0d,
+	y: 0.0d,
+	text: [
+		"{wtl.quests.chapter1.crucible.desc1}"
+	],
+	dependencies: [
+		"15a65cd8"
+	],
+	tasks: [{
+		uid: "5719c595",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crucible"
+		}]
+	}],
+	rewards: [{
+		uid: "55f567af",
+		type: "item",
+		item: "thaumcraft:nugget 1 9",
+		count: 64
+	}]
+}

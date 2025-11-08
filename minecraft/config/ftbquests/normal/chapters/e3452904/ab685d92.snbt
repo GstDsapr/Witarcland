@@ -1,0 +1,22 @@
+{
+	title: "{wtl.quests.chapterE.ectoplasm.title}",
+	x: 2.0d,
+	y: -4.0d,
+	description: "{wtl.quests.chapterE.ectoplasm.subtitle}",
+	dependencies: [
+		"46c89c61"
+	],
+	tasks: [{
+		uid: "8f1277bb",
+		type: "item",
+		items: [{
+			item: "randomthings:ingredient 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "4f47ded2",
+		type: "item",
+		item: "randomthings:spectrecoil_number",
+		count: 8
+	}]
+}

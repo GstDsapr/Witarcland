@@ -1,0 +1,14 @@
+{
+	x: 16.0d,
+	y: 4.0d,
+	dependencies: [
+		"c847512a"
+	],
+	tasks: [{
+		uid: "05943d02",
+		type: "item",
+		items: [{
+			item: "contenttweaker:will_processor"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 8.0d,
+	dependencies: [
+		"ec1c836f"
+	],
+	tasks: [{
+		uid: "4ce91315",
+		type: "item",
+		items: [{
+			item: "contenttweaker:world_crystal"
+		}]
+	}]
+}

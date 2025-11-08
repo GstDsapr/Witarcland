@@ -1,0 +1,44 @@
+<Asteroids>
+	<asteroid name="太空垃圾" distance="10" mass="50" massVariability="0.5" minLevel="0" probability="15" richness="0.1" richnessVariability="0.05">
+		<!--陨石--><ore itemStack="appliedenergistics2:sky_stone_block" chance="20" />
+		<!--末地石--><ore itemStack="minecraft:end_stone" chance="20" />
+		<!--福鲁伊克斯粉--><ore itemStack="appliedenergistics2:material 8" chance="2" />
+		<!--金粉--><ore itemStack="thermalfoundation:material 1" chance="2" />
+		<!--月球之尘--><ore itemStack="extrautils2:ingredients 3" chance="1" />
+		<!--基岩粉--><ore itemStack="enderio:item_material 20" chance="1" />
+	</asteroid>
+	<asteroid name="钬星-L" distance="195" mass="400" massVariability="0.5" minLevel="0" probability="3" richness="0.66" richnessVariability="0.14">
+		<!--钬--><ore itemStack="contenttweaker:sub_block_holder_4 1" chance="12" />
+		<!--铁--><ore itemStack="minecraft:iron_ore" chance="7" />
+		<!--钨--><ore itemStack="contenttweaker:sub_block_holder_2 1" chance="4" />
+	</asteroid>
+	<asteroid name="钬星-M" distance="110" mass="200" massVariability="0.5" minLevel="0" probability="6" richness="0.66" richnessVariability="0.14">
+		<!--钬--><ore itemStack="contenttweaker:sub_block_holder_4 1" chance="10" />
+		<!--铁--><ore itemStack="minecraft:iron_ore" chance="7" />
+		<!--钨--><ore itemStack="contenttweaker:sub_block_holder_2 1" chance="4" />
+	</asteroid>
+	<asteroid name="钬星-S" distance="60" mass="100" massVariability="0.5" minLevel="0" probability="6" richness="0.66" richnessVariability="0.14">
+		<!--钬--><ore itemStack="contenttweaker:sub_block_holder_4 1" chance="10" />
+		<!--铁--><ore itemStack="minecraft:iron_ore" chance="7" />
+	</asteroid>
+	<asteroid name="汞星-L" distance="110" mass="300" massVariability="0.5" minLevel="0" probability="2" richness="0.72" richnessVariability="0.12">
+		<!--朱砂--><ore itemStack="thaumcraft:ore_cinnabar" chance="30" />
+		<!--银--><ore itemStack="thermalfoundation:ore 2" chance="10" />
+		<!--锡--><ore itemStack="thermalfoundation:ore 1" chance="10" />
+	</asteroid>
+	<asteroid name="汞星-M" distance="70" mass="200" massVariability="0.5" minLevel="0" probability="3" richness="0.72" richnessVariability="0.12">
+		<!--朱砂--><ore itemStack="thaumcraft:ore_cinnabar" chance="25" />
+		<!--银--><ore itemStack="thermalfoundation:ore 2" chance="13" />
+		<!--锡--><ore itemStack="thermalfoundation:ore 1" chance="12" />
+	</asteroid>
+	<asteroid name="汞星-S" distance="50" mass="100" massVariability="0.5" minLevel="0" probability="5" richness="0.72" richnessVariability="0.12">
+		<!--朱砂--><ore itemStack="thaumcraft:ore_cinnabar" chance="20" />
+		<!--银--><ore itemStack="thermalfoundation:ore 2" chance="17" />
+		<!--锡--><ore itemStack="thermalfoundation:ore 1" chance="13" />
+	</asteroid>
+</Asteroids>
+<!--
+基础马达：35；高级马达：60；强化马达：110；精英马达：185；透镜：5
+钬：L：精英马达+2透镜；M：强化马达；S：高级马达
+汞：L：强化马达；M：高级马达+2透镜；S：基础马达+3透镜
+-->

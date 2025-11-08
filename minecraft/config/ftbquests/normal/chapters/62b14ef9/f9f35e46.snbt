@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 4.0d,
+	dependencies: [
+		"f57f7fa0"
+	],
+	tasks: [{
+		uid: "92dcde63",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:crystallizer"
+		}]
+	}]
+}

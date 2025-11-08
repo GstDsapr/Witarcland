@@ -1,0 +1,16 @@
+{
+	title: "合金窑",
+	loot_size: 1,
+	rewards: [{
+		item: "thermalfoundation:material 1 163",
+		count: 16
+	},
+	{
+		item: "thermalfoundation:material 1 161",
+		count: 16
+	},
+	{
+		item: "thermalfoundation:material 1 162",
+		count: 16
+	}]
+}

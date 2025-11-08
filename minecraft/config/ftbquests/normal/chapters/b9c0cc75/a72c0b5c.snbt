@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	text: [
+		"{wtl.quests.chapter3.flawless_greenhouse.desc1}"
+	],
+	dependencies: [
+		"2604e749"
+	],
+	tasks: [{
+		uid: "96448d37",
+		type: "item",
+		items: [{
+			item: "calculator:flawlessgreenhouse"
+		}]
+	}]
+}

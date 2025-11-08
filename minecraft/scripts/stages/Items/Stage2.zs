@@ -1,0 +1,158 @@
+#priority 750
+
+//导入
+import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDictEntry;
+
+//内容
+var Items as IItemStack[] = [
+	//A
+		//ao
+			/*奥术工作台充能器*/<thaumcraft:arcane_workbench_charger>,
+	//B
+		//ba
+			/*八位电容*/<enderio:item_basic_capacitor:2>,
+		//bai
+			/*白色水晶碎片*/<actuallyadditions:item_crystal_shard:5>,
+	//C
+		//chong
+			/*充能红石水晶*/<actuallyadditions:item_crystal_empowered>,/*充能红石水晶块*/<actuallyadditions:block_crystal_empowered>,/*充能绿宝石水晶*/<actuallyadditions:item_crystal_empowered:4>,/*充能绿宝石水晶块*/<actuallyadditions:block_crystal_empowered:4>,/*充能煤晶*/<actuallyadditions:item_crystal_empowered:3>,/*充能煤晶块*/<actuallyadditions:block_crystal_empowered:3>,/*充能青金石水晶*/<actuallyadditions:item_crystal_empowered:1>,/*充能青金石水晶块*/<actuallyadditions:block_crystal_empowered:1>,/*充能水晶*/<enderio:item_material:14>,/*充能台*/<actuallyadditions:block_empowerer>,/*充能铁晶*/<actuallyadditions:item_crystal_empowered:5>,/*充能铁晶块*/<actuallyadditions:block_crystal_empowered:5>,/*充能钻石水晶*/<actuallyadditions:item_crystal_empowered:2>,/*充能钻石水晶块*/<actuallyadditions:block_crystal_empowered:2>,
+		//chun
+			/*春之符文*/<botania:rune:4>,
+		//cu
+			/*粗制高级电路*/<contenttweaker:crude_advanced_circuit>,/*粗制基础电路*/<contenttweaker:crude_basic_circuit>,
+		//cuo
+			/*错误时钟*/<contenttweaker:false_clock>,
+	//D
+		//dan
+			/*淡蓝色水晶碎片*/<actuallyadditions:item_crystal_shard:2>,
+		//dian
+			/*电容库*/<enderio:block_cap_bank:2>,<enderio:block_cap_bank:2>.withTag({"enderio:energy": 5000000}),
+		//ding
+			/*锭化钻石*/<contenttweaker:diamonnd_inngot>,
+		//dong
+			/*冬之符文*/<botania:rune:7>,
+	//F
+		//fa
+			/*法师宝石*/<contenttweaker:magician_gem>,/*法师火焰*/<contenttweaker:magician_flame>,
+	//G
+		//gao
+			/*高级线圈*/<actuallyadditions:item_misc:8>,/*高能混合物*/<nuclearcraft:compound:2>,
+		//gong
+			/*供桌*/<naturesaura:offering_table>,
+		//guan
+			/*灌注石*/<naturesaura:infused_stone>,/*灌注铁锭*/<naturesaura:infused_iron>,/*灌注铁块*/<naturesaura:infused_iron_block>,
+	//H
+		//hei
+			/*黑色水晶碎片*/<actuallyadditions:item_crystal_shard:3>,
+		//hong
+			/*红色水晶碎片*/<actuallyadditions:item_crystal_shard>,/*红石传导线圈*/<thermalfoundation:material:515>,/*红石传输线圈*/<thermalfoundation:material:514>,/*红石接收线圈*/<thermalfoundation:material:513>,/*红石水晶*/<actuallyadditions:item_crystal>,/*红石水晶块*/<actuallyadditions:block_crystal>,
+		//hu
+			/*呼唤之魂*/<naturesaura:calling_spirit>,
+		//huan
+			/*环境科技核心*/<contenttweaker:environmentaltech_core>,/*环境科技芯片*/<contenttweaker:environmentaltech_chip>,
+		//hui
+			/*灰烬块*/<contenttweaker:block_ash>,
+	//J
+		//ji
+			/*基础电容*/<enderio:item_basic_capacitor>,/*基础电容库*/<enderio:block_cap_bank:1>,<enderio:block_cap_bank:1>.withTag({"enderio:energy": 1000000}),/*基础线圈*/<actuallyadditions:item_misc:7>,/*基岩粉*/<enderio:item_material:20>,
+		//jian
+			/*坚固部件*/<forestry:sturdy_machine>,/*简易奥术装置*/<thaumcraft:mechanism_simple>,
+		//jing
+			/*精灵符文*/<contenttweaker:elven_rune>,/*精灵门核心*/<botania:alfheimportal>,/*精密奥术装置*/<thaumcraft:mechanism_complex>,
+	//L
+		//lan
+			/*蓝色水晶碎片*/<actuallyadditions:item_crystal_shard:1>,
+		//lian
+			/*炼金构材*/<thaumcraft:metal_alchemical>,
+		//long
+			/*龙之心*/<draconicevolution:dragon_heart>,
+		//lv
+			/*绿宝石水晶*/<actuallyadditions:item_crystal:4>,/*绿宝石水晶块*/<actuallyadditions:block_crystal:4>,/*绿色水晶碎片*/<actuallyadditions:item_crystal_shard:4>,
+	//M
+		//mai
+			/*脉冲电容库*/<enderio:block_cap_bank:3>,<enderio:block_cap_bank:3>.withTag({"enderio:energy": 25000000}),/*脉冲水晶*/<enderio:item_material:15>,
+		//mei
+			/*煤晶*/<actuallyadditions:item_crystal:3>,/*煤晶块*/<actuallyadditions:block_crystal:3>,
+		//mo
+			/*魔法水晶*/<botania:pylon>,/*末影流体导管*/<enderio:item_liquid_conduit:2>,/*末影能量导管*/<enderio:item_power_conduit:2>,
+	//N
+		//neng
+			/*能量导管*/<enderio:item_power_conduit>,
+	//Q
+		//qiang
+			/*强化能量导管*/<enderio:item_power_conduit:1>,
+		//qing
+			/*青金石水晶*/<actuallyadditions:item_crystal:1>,/*青金石水晶块*/<actuallyadditions:block_crystal:1>,
+		//qiu
+			/*秋之符文*/<botania:rune:6>,
+	//S
+		//shen
+			/*神秘花魂*/<contenttweaker:mystical_flower_spirit>,/*神秘生物学之心*/<thaumcraft:mind:1>,/*神秘时代核心*/<contenttweaker:thaumcraft_core>,/*神秘时代芯片*/<contenttweaker:thaumcraft_chip>,/*神秘源质冶炼厂*/<thaumcraft:smelter_thaumium>,/*神圣象征*/<contenttweaker:sacred_symbol>,
+		//shuang
+			/*双层电容*/<enderio:item_basic_capacitor:1>,
+		//sui
+			/*碎裂冰晶*/<contenttweaker:fragmented_ice_crystal>,
+	//T
+		//tai
+			/*泰拉钢块*/<botania:storage:1>,
+		//tian
+			/*天空之锭*/<naturesaura:sky_ingot>,
+		//tie
+			/*铁晶*/<actuallyadditions:item_crystal:5>,/*铁晶块*/<actuallyadditions:block_crystal:5>,/*铁推进器*/<simplyjetpacks:metaitemmods>,/*铁制外壳*/<actuallyadditions:block_misc:9>,
+	//W
+		//wu
+			/*物品展示台*/<actuallyadditions:block_display_stand>,
+	//X
+		//xia
+			/*夏之符文*/<botania:rune:5>,
+		//xian
+			/*仙域水晶*/<biomesoplenty:crystal>,/*仙域水晶碎片*/<biomesoplenty:crystal_shard>,
+		//xu
+			/*虚弱宝石*/<contenttweaker:weak_gem>,
+		//xue
+			/*学徒宝石*/<contenttweaker:apprentice_gem>,/*学徒火焰*/<contenttweaker:apprentice_flame>,
+	//Y
+		//yan
+			/*炎雪球*/<contenttweaker:torrid_snowball>,
+		//yu
+			/*余烬核心*/<contenttweaker:embers_core>,/*余烬芯片*/<contenttweaker:embers_chip>,
+		//yuan
+			/*原子再构机*/<actuallyadditions:block_atomic_reconstructor>,
+	//Z
+		//zeng
+			/*增生之种*/<botania:overgrowthseed>,
+		//zhu
+			/*贮液器（强化）*/<thermalexpansion:reservoir:2>.withTag({}),/*贮液器（硬化）*/<thermalexpansion:reservoir:1>.withTag({}),
+		//zhuang
+			/*装饰用绿色石英方块*/<actuallyadditions:block_testifi_bucks_green_wall>,/*装饰用石英*/<actuallyadditions:block_testifi_bucks_white_wall>,
+		//zi
+			/*自然祭坛核心*/<naturesaura:nature_altar>,/*自然之聚*/<contenttweaker:gathered_nature>,
+		//zuan
+			/*钻石水晶*/<actuallyadditions:item_crystal:2>,/*钻石水晶块*/<actuallyadditions:block_crystal:2>
+];
+for array in Items {
+	mods.ItemStages.removeItemStage(array);
+	mods.ItemStages.addItemStage("two",array);
+}
+
+var ODs as IOreDictEntry[] = [
+	<ore:nuggetAluminum>,<ore:ingotAluminum>,<ore:blockAluminum>,<ore:oreAluminum>,<ore:dustAluminum>,<ore:gearAluminum>,<ore:plateAluminum>,
+	<ore:nuggetArdite>,<ore:ingotArdite>,<ore:blockArdite>,<ore:oreArdite>,
+	<ore:nuggetCobalt>,<ore:ingotCobalt>,<ore:blockCobalt>,<ore:oreCobalt>,
+	<ore:nuggetConductiveIron>,<ore:ingotConductiveIron>,<ore:blockConductiveIron>,
+	<ore:nuggetConstantan>,<ore:ingotConstantan>,<ore:blockConstantan>,<ore:dustConstantan>,<ore:gearConstantan>,<ore:plateConstantan>,
+	<ore:nuggetEnergeticAlloy>,<ore:ingotEnergeticAlloy>,<ore:blockEnergeticAlloy>,
+	<ore:nuggetInvar>,<ore:ingotInvar>,<ore:blockInvar>,<ore:dustInvar>,<ore:gearInvar>,<ore:plateInvar>,
+	<ore:nuggetManyullyn>,<ore:ingotManyullyn>,<ore:blockManyullyn>,
+	<ore:nuggetNickel>,<ore:ingotNickel>,<ore:blockNickel>,<ore:oreNickel>,<ore:dustNickel>,<ore:gearNickel>,<ore:plateNickel>,
+	<ore:nuggetSteel>,<ore:ingotSteel>,<ore:blockSteel>,<ore:dustSteel>,<ore:gearSteel>,<ore:plateSteel>,
+	<ore:nuggetTerrasteel>,<ore:ingotTerrasteel>,<ore:gearTerrasteel>,<ore:plateTerrasteel>,
+	<ore:nuggetVibrantAlloy>,<ore:ingotVibrantAlloy>,<ore:blockVibrantAlloy>,
+	<ore:fuelCoke>,<ore:blockFuelCoke>,
+	<ore:nuggetSilicon>,<ore:itemSilicon>,<ore:dustSilicon>,<ore:plateSilicon>
+];
+for array in ODs {
+	mods.ItemStages.removeItemStage(array);
+	mods.ItemStages.addItemStage("two",array);
+}

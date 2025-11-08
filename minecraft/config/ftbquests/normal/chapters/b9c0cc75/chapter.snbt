@@ -1,0 +1,7 @@
+{
+	title: "{wtl.quests.chapter3.title}",
+	icon: "appliedenergistics2:controller",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
