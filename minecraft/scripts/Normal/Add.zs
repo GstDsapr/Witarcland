@@ -710,6 +710,8 @@ recipes.addShaped(<immersiveengineering:metal_decoration0:5> * 2,[[<ore:plateSte
 recipes.addShaped(<modularmachinery:blockfluidoutputhatch:2>,[[<enderio:block_tank>,<modularmachinery:itemmodularium>,<enderio:block_tank>],[<modularmachinery:itemmodularium>,<modularmachinery:blockfluidoutputhatch:1>,<modularmachinery:itemmodularium>],[null,<minecraft:hopper>,null]]);
 //中型流体输入仓
 recipes.addShaped(<modularmachinery:blockfluidinputhatch:2>,[[null,<minecraft:hopper>,null],[<modularmachinery:itemmodularium>,<modularmachinery:blockfluidinputhatch:1>,<modularmachinery:itemmodularium>],[<enderio:block_tank>,<modularmachinery:itemmodularium>,<enderio:block_tank>]]);
+//中型能源输出仓
+recipes.addShaped(<modularmachinery:blockenergyoutputhatch:2>,[[<actuallyadditions:item_crystal>,<actuallyadditions:block_crystal>,<actuallyadditions:item_crystal>],[<actuallyadditions:block_crystal>,<modularmachinery:blockenergyoutputhatch:1>,<actuallyadditions:block_crystal>],[<actuallyadditions:item_crystal>,<minecraft:repeater>,<actuallyadditions:item_crystal>]]);
 //中型能源输入仓
 recipes.addShaped(<modularmachinery:blockenergyinputhatch:2>,[[<actuallyadditions:item_crystal>,<minecraft:repeater>,<actuallyadditions:item_crystal>],[<actuallyadditions:block_crystal>,<modularmachinery:blockenergyinputhatch:1>,<actuallyadditions:block_crystal>],[<actuallyadditions:item_crystal>,<actuallyadditions:block_crystal>,<actuallyadditions:item_crystal>]]);
 //中型物品输出仓
