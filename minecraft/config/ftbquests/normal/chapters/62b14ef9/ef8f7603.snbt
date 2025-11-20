@@ -10,7 +10,6 @@
 		"{wtl.quests.chapter4.nuclear_condenser.desc4}"
 	],
 	dependencies: [
-		"184dd5f4",
 		"dfca720d"
 	],
 	size: 1.5d,
