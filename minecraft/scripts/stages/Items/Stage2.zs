@@ -150,7 +150,7 @@ var ODs as IOreDictEntry[] = [
 	<ore:nuggetTerrasteel>,<ore:ingotTerrasteel>,<ore:gearTerrasteel>,<ore:plateTerrasteel>,
 	<ore:nuggetVibrantAlloy>,<ore:ingotVibrantAlloy>,<ore:blockVibrantAlloy>,
 	<ore:fuelCoke>,<ore:blockFuelCoke>,
-	<ore:nuggetSilicon>,<ore:itemSilicon>,<ore:dustSilicon>,<ore:plateSilicon>
+	<ore:nuggetSilicon>,<ore:ingotSilicon>,<ore:itemSilicon>,<ore:dustSilicon>,<ore:plateSilicon>
 ];
 for array in ODs {
 	mods.ItemStages.removeItemStage(array);
