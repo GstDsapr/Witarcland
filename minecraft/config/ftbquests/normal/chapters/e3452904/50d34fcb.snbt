@@ -1,6 +1,6 @@
 {
 	title: "{wtl.quests.chapterE.feral_ghoul.title}",
-	x: 0.0d,
+	x: 4.0d,
 	y: 2.0d,
 	description: "{wtl.quests.chapterE.feral_ghoul.subtitle}",
 	dependencies: [

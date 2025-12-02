@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.condensed_unstable.title}",
 	x: -4.0d,
-	y: -4.0d,
+	y: 4.0d,
 	description: "{wtl.quests.chapterE.condensed_unstable.subtitle}",
 	dependencies: [
 		"83a1b39d"

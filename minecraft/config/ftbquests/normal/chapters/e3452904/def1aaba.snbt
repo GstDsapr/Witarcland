@@ -1,6 +1,6 @@
 {
 	title: "{wtl.quests.chapterE.digital_miner.title}",
-	x: 4.0d,
+	x: 0.0d,
 	y: 2.0d,
 	description: "{wtl.quests.chapterE.digital_miner.subtitle}",
 	dependencies: [

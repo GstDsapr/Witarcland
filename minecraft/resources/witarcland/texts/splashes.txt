@@ -1,5 +1,6 @@
 GstDsapr
 维塔克兰
+Witarcland
 §1C§2o§3l§4o§5r§6f§7u§8l §0Black§9!
 _old_old..._old_old
 /weather clear
@@ -20,6 +21,7 @@ recipes.removeAll();
 Tralalero Tralala
 Tung Tung Tung Sahur
 别笑，你也过不了第二关
+冰箱是柜，冰柜是箱
 不要向精灵门里丢面包
 噔噔咚
 钝角

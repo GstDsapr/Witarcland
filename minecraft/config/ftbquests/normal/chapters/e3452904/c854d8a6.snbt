@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.infinity_booster_card.title}",
-	x: 0.0d,
-	y: -2.0d,
+	x: 2.0d,
+	y: 2.0d,
 	description: "{wtl.quests.chapterE.infinity_booster_card.subtitle}",
 	dependencies: [
 		"96b4690f"

@@ -8,13 +8,15 @@ removeRecipe(IItemStack 输出);
 addRecipe(string 名称, IItemStack 输出, IIngredient[] 输入(1||5));
 */
 
-//暴雪粉
-addRecipe("blizz_dust",<thermalfoundation:material:2049>,[<minecraft:snowball>,<minecraft:snowball>,<contenttweaker:weak_flame>,<thaumcraft:nitor_white>,<thaumcraft:nitor_white>]);
 //骨粉
 addRecipe("bone_meal",<minecraft:dye:15> * 9,[<minecraft:bone_block>]);
+//海晶碎片
+addRecipe("prismarine_shard",<minecraft:prismarine_shard> * 4,[<minecraft:prismarine>]);
 //焦煤粉
 addRecipe("coke_dust",<immersiveengineering:material:17>,[<ore:fuelCoke>]);
 addRecipe("coke_dust_nine",<immersiveengineering:material:17> * 9,[<ore:blockFuelCoke>]);
+//凛冰粉
+addRecipe("cryotheum_dust",<thermalfoundation:material:1025> * 4,[<minecraft:snowball>,<minecraft:snowball>,<contenttweaker:weak_flame>,<thaumcraft:nitor_white>,<thaumcraft:nitor_white>]);
 //藤蔓
 addRecipe("vine",<minecraft:vine> * 5,[<ore:rootsBark>,<minecraft:tallgrass:1>,<ore:treeLeaves>,<roots:wildroot>,<roots:terra_moss>]);
 //下界石英粉

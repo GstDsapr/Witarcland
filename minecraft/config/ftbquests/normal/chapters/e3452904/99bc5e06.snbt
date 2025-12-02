@@ -1,6 +1,6 @@
 {
 	title: "{wtl.quests.chapterE.mega_torch.title}",
-	x: 0.0d,
+	x: 2.0d,
 	y: -4.0d,
 	description: "{wtl.quests.chapterE.mega_torch.subtitle}",
 	dependencies: [

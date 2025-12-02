@@ -14,8 +14,8 @@ registerRecipe("largetanzanite","",<calculator:largetanzanite>,<minecraft:dye:4>
 registerRecipe("largeamethyst","",<calculator:largeamethyst>,<minecraft:diamond>,[<aspect:potentia> * 5,<aspect:vitreus> * 5]);
 //高炉砖
 registerRecipe("blast_furnace_brick","",<tcomplement:materials:1>,<tconstruct:ingots:2>,[<aspect:ignis> * 5,<aspect:perditio> * 5]);
-//海晶碎片
-registerRecipe("prismarine_shard","",<minecraft:prismarine_shard>,<minecraft:quartz>,[<aspect:aqua> * 10,<aspect:terra> * 10,<aspect:praemunio> * 10]);
+//海晶石
+registerRecipe("prismarine","",<minecraft:prismarine>,<minecraft:quartz>,[<aspect:aqua> * 10,<aspect:terra> * 10,<aspect:praemunio> * 10]);
 //炼金黄铜锭
 removeRecipe(<thaumcraft:ingot:2>);
 registerRecipe("brassingot","METALLURGY@1",<thaumcraft:ingot:2>,<ore:ingotCopper>,[<aspect:instrumentum> * 5]);

@@ -12,5 +12,15 @@
 		uid: "83ee4b65",
 		type: "checkmark",
 		title: "{wtl.quests.chapter0.akashic_tome.item1}"
+	}],
+	rewards: [{
+		uid: "188da57d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "akashictome:tome"
+		}
 	}]
 }

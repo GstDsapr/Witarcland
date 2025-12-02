@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.manufactory_halo.title}",
-	x: -2.0d,
-	y: 4.0d,
+	x: 0.0d,
+	y: -2.0d,
 	description: "{wtl.quests.chapterE.manufactory_halo.subtitle}",
 	dependencies: [
 		"69ab7d08"

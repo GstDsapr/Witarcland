@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.sacred_symbol.title}",
-	x: -2.0d,
-	y: 2.0d,
+	x: 0.0d,
+	y: 0.0d,
 	description: "{wtl.quests.chapterE.sacred_symbol.subtitle}",
 	dependencies: [
 		"ae0e0953"

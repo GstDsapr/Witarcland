@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.rod_of_the_skies.title}",
-	x: -4.0d,
-	y: 0.0d,
+	x: 2.0d,
+	y: -2.0d,
 	description: "{wtl.quests.chapterE.rod_of_the_skies.subtitle}",
 	dependencies: [
 		"26c0af41"

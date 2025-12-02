@@ -228,13 +228,14 @@
 		},
 
 		"lapis": {
+			"enabled": true,
 			"distribution": "gaussian",
 			"generator": {
 				"block": "lapis_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 7
+				"cluster-size": 16
 			},
-			"cluster-count": 1,
+			"cluster-count": 2,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,

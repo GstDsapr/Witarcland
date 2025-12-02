@@ -432,6 +432,7 @@ recipes.addShaped(<forestry:carpenter>,[[<enderio:item_power_conduit:2>,<extraut
 //木棍
 recipes.addShapeless(<minecraft:stick>,[<ore:treeLeaves>,<ceramics:clay_shears:*>.transformDamage()]);
 recipes.addShapeless(<minecraft:stick>,[<ore:treeLeaves>,<minecraft:shears:*>.transformDamage()]);
+recipes.addShapeless(<minecraft:stick>,[<ore:treeLeaves>,<thermalfoundation:tool.shears_diamond:*>.transformDamage()]);
 //木质外壳
 recipes.addShaped(<actuallyadditions:block_misc:4>,[[<ore:plankWood>,<ore:stickWood>,<ore:plankWood>],[<ore:stickWood>,<roots:wildwood_log>,<ore:stickWood>],[<ore:plankWood>,<ore:stickWood>,<ore:plankWood>]]);
 //木桌

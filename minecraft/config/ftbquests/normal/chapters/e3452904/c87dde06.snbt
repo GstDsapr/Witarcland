@@ -1,6 +1,6 @@
 {
 	title: "{wtl.quests.chapterE.epic_bacon.title}",
-	x: 4.0d,
+	x: -4.0d,
 	y: -4.0d,
 	description: "{wtl.quests.chapterE.epic_bacon.subtitle}",
 	dependencies: [

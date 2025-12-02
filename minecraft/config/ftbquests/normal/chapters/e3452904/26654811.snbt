@@ -1,6 +1,6 @@
 {
 	title: "{wtl.quests.chapterE.ashen_amulet.title}",
-	x: -2.0d,
+	x: 2.0d,
 	y: 0.0d,
 	description: "{wtl.quests.chapterE.ashen_amulet.subtitle}",
 	dependencies: [

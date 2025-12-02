@@ -21,8 +21,6 @@ var Items as IItemStack[] = [
 			/*春之符文*/<botania:rune:4>,
 		//cu
 			/*粗制高级电路*/<contenttweaker:crude_advanced_circuit>,/*粗制基础电路*/<contenttweaker:crude_basic_circuit>,
-		//cuo
-			/*错误时钟*/<contenttweaker:false_clock>,
 	//D
 		//dan
 			/*淡蓝色水晶碎片*/<actuallyadditions:item_crystal_shard:2>,

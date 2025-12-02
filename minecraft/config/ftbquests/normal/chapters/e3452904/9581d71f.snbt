@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.all_elements.title}",
 	x: -2.0d,
-	y: -4.0d,
+	y: 4.0d,
 	description: "{wtl.quests.chapterE.all_elements.subtitle}",
 	dependencies: [
 		"3d17ba5d"

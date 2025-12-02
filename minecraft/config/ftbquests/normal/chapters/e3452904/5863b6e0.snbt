@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.three_rods.title}",
-	x: -4.0d,
-	y: 4.0d,
+	x: 4.0d,
+	y: 0.0d,
 	description: "{wtl.quests.chapterE.three_rods.subtitle}",
 	dependencies: [
 		"26c0af41"

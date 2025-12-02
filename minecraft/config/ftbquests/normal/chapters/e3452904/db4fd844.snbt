@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.fake_diamond.title}",
-	x: 2.0d,
-	y: -2.0d,
+	x: -2.0d,
+	y: -4.0d,
 	description: "{wtl.quests.chapterE.fake_diamond.subtitle}",
 	dependencies: [
 		"d4438193"

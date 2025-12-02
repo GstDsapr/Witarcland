@@ -1,7 +1,7 @@
 {
 	title: "{wtl.quests.chapterE.energy_core.title}",
 	icon: "draconicevolution:energy_storage_core",
-	x: 0.0d,
+	x: 2.0d,
 	y: 4.0d,
 	description: "{wtl.quests.chapterE.energy_core.subtitle}",
 	dependencies: [
